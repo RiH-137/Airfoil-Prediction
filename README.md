@@ -1,7 +1,8 @@
 # Airfoil-Prediction
 
-*Flask
-*Ml algorithms
-*Postman API
+* Flask
+* Ml algorithms
+* Postman API
 * HTML
+* Python
   
